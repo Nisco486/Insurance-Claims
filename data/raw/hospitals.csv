@@ -1,0 +1,201 @@
+hospital_id,name,region,city,tier,is_phantom,rohini_id,empanelment_date,specialization,total_claims_filed,fraud_claims_ratio,blacklisted
+H0001,SuperCare Diagnostics Indore,hindi_belt,Indore,2,True,ROHINI-022614,2022-08-09,general_medicine,31,0.1613,False
+H0002,श्री Sharma मेडिकल सेंटर,hindi_belt,Jodhpur,3,False,ROHINI-287794,2013-11-03,nephrology,26,0.1538,False
+H0003,Shri Sharma Medical Centre,hindi_belt,Patna,2,False,ROHINI-698811,2019-08-03,orthopaedic,16,0.0625,False
+H0004,Sri Gupta Multi-Speciality Hospital,south,Kochi,2,False,ROHINI-465081,2016-05-10,general_medicine,20,0.3,False
+H0005,Wockhardt Mumbai Centre,west,Mumbai,1,False,ROHINI-564633,2016-11-19,neurology,26,0.0385,False
+H0006,Shree Mehta Clinic,west,Rajkot,3,False,ROHINI-225411,2019-12-23,maternity,28,0.1786,False
+H0007,Patel Medical Foundation,west,Vadodara,2,True,NA,2020-08-04,multi_speciality,25,0.2,False
+H0008,Vijaya Pillai Hospital,south,Bengaluru,1,False,ROHINI-751007,2019-07-05,nephrology,21,0.1429,False
+H0009,Calcutta Ganesh Hospital,east,Siliguri,3,True,PENDING,2013-12-02,pulmonology,36,0.1667,False
+H0010,Reddy Medical Foundation,west,Nagpur,2,True,ROH-78754,2020-09-05,cardiac,26,0.2692,False
+H0011,आयुष्मान Gupta क्लिनिक,hindi_belt,Ludhiana,2,False,ROHINI-770877,2019-12-27,general_medicine,31,0.1613,False
+H0012,Durga Care Hospital,hindi_belt,Delhi,1,True,NA,2015-10-28,oncology,24,0.125,False
+H0013,Saraswati Care Hospital,hindi_belt,Patna,2,True,NA,2020-02-16,multi_speciality,27,0.2222,False
+H0014,Dehradun City Hospital,hindi_belt,Dehradun,3,True,PENDING,2016-05-03,multi_speciality,24,0.375,True
+H0015,Prime Medicare Jaipur,hindi_belt,Jaipur,2,True,ROHINI-024575,2022-06-19,cardiac,29,0.2414,False
+H0016,ஸ்ரீ Ganesh கிளினிக்,south,Vellore,3,False,ROHINI-778507,2013-09-10,cardiac,26,0.1154,False
+H0017,Sri Mehta Nursing Home,south,Vellore,3,False,ROHINI-587728,2018-09-03,general_medicine,21,0.0476,False
+H0018,Jodhpur जिला अस्पताल,hindi_belt,Jodhpur,3,False,ROHINI-475847,2013-02-18,general_medicine,24,0.0417,False
+H0019,Vijaya Naidu Hospital,south,Hyderabad,1,True,NA,2017-04-14,oncology,29,0.1724,False
+H0020,Vijaya Sharma Hospital,south,Vellore,3,False,ROHINI-671239,2014-07-28,general_medicine,22,0.2727,False
+H0021,Gupta Nursing Home,east,Siliguri,3,False,ROHINI-784033,2017-05-03,oncology,27,0.2222,False
+H0022,காந்தி மருத்துவமனை,south,Chennai,1,False,ROHINI-516785,2018-05-10,oncology,18,0.2778,False
+H0023,Vellore Medical Centre,south,Vellore,3,True,PENDING,2014-06-05,general_medicine,19,0.1053,False
+H0024,SuperCare Diagnostics Vadodara,west,Vadodara,2,True,ROHINI-040197,2022-06-07,pulmonology,30,0.0667,False
+H0025,National Krishna Diagnostic Centre,hindi_belt,Bhopal,2,True,NA,2022-03-20,multi_speciality,29,0.069,False
+H0026,Durgapur Advanced Wellness Hub,east,Durgapur,3,True,NA,2022-08-23,general_medicine,25,0.12,False
+H0027,Hanuman अस्पताल,hindi_belt,Bhopal,2,False,ROHINI-868274,2020-01-13,nephrology,23,0.2174,False
+H0028,Kapoor Hospital Pvt Ltd,west,Vadodara,2,False,ROHINI-819922,2014-07-13,general_medicine,29,0.0345,False
+H0029,સર Patel હૉસ્પિટલ,west,Ahmedabad,1,True,ROHINI-014722,2016-06-12,oncology,28,0.25,False
+H0030,Durga अस्पताल,hindi_belt,Jaipur,2,False,ROHINI-351554,2020-07-21,oncology,23,0.1304,False
+H0031,Shri Nair Medical Centre,hindi_belt,Jaipur,2,False,ROHINI-426815,2020-12-01,multi_speciality,22,0.0909,False
+H0032,Shri Rao Medical Centre,hindi_belt,Patna,2,False,ROHINI-130171,2013-05-26,oncology,22,0.3182,True
+H0033,Sri Reddy Nursing Home,south,Vellore,3,False,ROHINI-159966,2015-06-21,general_medicine,21,0.3333,True
+H0034,Vijaya Banerjee Hospital,south,Visakhapatnam,2,False,ROHINI-525432,2019-07-28,maternity,27,0.1481,False
+H0035,श्री Desai मेडिकल सेंटर,hindi_belt,Chandigarh,2,False,ROHINI-227461,2018-01-09,maternity,12,0.25,False
+H0036,Iyer Apollo Clinic,south,Kochi,2,False,ROHINI-118357,2015-12-02,cardiac,27,0.1852,False
+H0037,Patel Medical Foundation,west,Rajkot,3,True,ROH-60037,2013-12-18,general_medicine,25,0.08,False
+H0038,Allahabad City Hospital,hindi_belt,Allahabad,3,False,ROHINI-142112,2015-08-30,maternity,17,0.2353,False
+H0039,Ganesh Care Hospital,hindi_belt,Jaipur,2,True,PENDING,2019-02-02,multi_speciality,21,0.3333,True
+H0040,Sri Sharma Nursing Home,south,Chennai,1,True,ROHINI-031534,2017-04-19,oncology,30,0.1667,False
+H0041,Vishnu Hospital and Research Centre,south,Kochi,2,False,ROHINI-683384,2015-04-09,general_medicine,29,0.069,False
+H0042,Shree Desai Clinic,west,Nagpur,2,False,ROHINI-282091,2020-10-24,gastroenterology,29,0.1034,False
+H0043,ஸ்ரீ Shiv கிளினிக்,south,Tiruchirappalli,3,False,ROHINI-527004,2021-02-07,gastroenterology,25,0.28,False
+H0044,Reddy Hospital & Research Centre,hindi_belt,Delhi,1,False,ROHINI-641285,2020-02-19,orthopaedic,24,0.125,False
+H0045,आयुष्मान Sharma क्लिनिक,hindi_belt,Chandigarh,2,True,ROH-45519,2020-08-04,multi_speciality,35,0.1143,False
+H0046,Ram Hospital and Research Centre,south,Vellore,3,False,ROHINI-376474,2014-05-03,gastroenterology,24,0.2917,False
+H0047,Pune Nursing Home,west,Pune,1,False,ROHINI-519588,2019-07-13,nephrology,30,0.1333,False
+H0048,Naidu Apollo Clinic,south,Chennai,1,False,ROHINI-349472,2014-03-06,maternity,34,0.0882,False
+H0049,সেবা নার্সিং হোম,east,Siliguri,3,False,ROHINI-119869,2013-09-30,cardiac,26,0.1923,False
+H0050,ஸ்ரீ Krishna கிளினிக்,south,Tiruchirappalli,3,False,ROHINI-897903,2015-02-12,general_medicine,17,0.0588,False
+H0051,Durga अस्पताल,hindi_belt,Indore,2,True,ROHINI-089340,2020-12-10,maternity,22,0.2273,False
+H0052,Vijaya Gupta Hospital,south,Salem,3,True,ROHINI-096013,2021-06-18,maternity,31,0.1613,False
+H0053,Vijaya Choudhary Hospital,south,Hyderabad,1,False,ROHINI-694226,2016-07-16,multi_speciality,26,0.2692,False
+H0054,Hanuman Care Hospital,hindi_belt,Delhi,1,False,ROHINI-674889,2016-05-06,cardiac,35,0.2,False
+H0055,Vellore Medical Centre,south,Vellore,3,False,ROHINI-626833,2016-04-10,general_medicine,21,0.2381,False
+H0056,Sri Das Multi-Speciality Hospital,south,Guntur,3,False,ROHINI-229065,2020-03-25,maternity,14,0.0714,False
+H0057,आयुष्मान Naidu क्लिनिक,hindi_belt,Chandigarh,2,False,ROHINI-626582,2021-07-28,multi_speciality,25,0.08,False
+H0058,Shri Pillai Medical Centre,hindi_belt,Dehradun,3,True,NA,2019-03-17,general_medicine,28,0.1429,False
+H0059,Vijaya Desai Hospital,south,Thiruvananthapuram,2,False,ROHINI-324962,2020-08-05,multi_speciality,28,0.1786,False
+H0060,Ram Hospital and Research Centre,south,Hyderabad,1,True,ROHINI-088388,2018-09-17,multi_speciality,29,0.2759,False
+H0061,Ludhiana City Hospital,hindi_belt,Ludhiana,2,False,ROHINI-281734,2017-02-28,maternity,21,0.1429,False
+H0062,Sri Mehta Nursing Home,south,Bengaluru,1,False,ROHINI-379129,2016-07-15,pulmonology,30,0.1333,False
+H0063,Naidu Hospital & Research Centre,hindi_belt,Amritsar,3,True,ROHINI-023086,2020-09-23,general_medicine,23,0.1739,False
+H0064,Bengaluru Medical Centre,south,Bengaluru,1,True,NA,2021-06-12,maternity,27,0.1481,False
+H0065,Ranchi जिला अस्पताल,hindi_belt,Ranchi,3,True,PENDING,2020-02-24,neurology,23,0.087,False
+H0066,Global Ahmedabad Wellness,west,Ahmedabad,1,True,ROHINI-032573,2022-03-15,oncology,31,0.2258,False
+H0067,आयुष्मान Iyer क्लिनिक,hindi_belt,Dehradun,3,False,ROHINI-180448,2020-07-30,general_medicine,20,0.05,False
+H0068,MedPro Solutions Amritsar,hindi_belt,Amritsar,3,True,,2022-01-28,general_medicine,22,0.0909,False
+H0069,Chennai Medical Centre,south,Chennai,1,False,ROHINI-898144,2015-10-11,orthopaedic,26,0.2308,False
+H0070,Vijaya Mehta Hospital,south,Vellore,3,False,ROHINI-293293,2016-06-24,multi_speciality,26,0.0385,False
+H0071,ஸ்ரீ Vishnu கிளினிக்,south,Hyderabad,1,False,ROHINI-627011,2013-02-03,orthopaedic,33,0.2121,False
+H0072,Rao Apollo Clinic,south,Chennai,1,False,ROHINI-813383,2017-02-17,maternity,20,0.1,False
+H0073,श्री Joshi मेडिकल सेंटर,hindi_belt,Chandigarh,2,False,ROHINI-594787,2017-03-29,multi_speciality,24,0.25,False
+H0074,Desai Apollo Clinic,south,Coimbatore,2,True,NA,2016-08-18,multi_speciality,22,0.2273,False
+H0075,Sri Pillai Multi-Speciality Hospital,south,Thiruvananthapuram,2,True,ROHINI-048104,2018-12-04,maternity,23,0.2174,False
+H0076,Pillai Apollo Clinic,south,Salem,3,False,ROHINI-445819,2018-03-03,general_medicine,22,0.2273,False
+H0077,Shiv अस्पताल,hindi_belt,Amritsar,3,True,ROHINI-092612,2013-11-18,general_medicine,21,0.1905,False
+H0078,Ludhiana जिला अस्पताल,hindi_belt,Ludhiana,2,False,ROHINI-343131,2017-04-12,nephrology,31,0.3226,True
+H0079,Dehradun जिला अस्पताल,hindi_belt,Dehradun,3,False,ROHINI-166575,2014-07-27,orthopaedic,30,0.2,False
+H0080,Nagpur Advanced Wellness Hub,west,Nagpur,2,True,ROHINI-985208,2022-04-05,cardiac,19,0.3684,True
+H0081,Madurai Advanced Wellness Hub,south,Madurai,2,True,,2022-04-10,orthopaedic,32,0.1875,False
+H0082,Das Apollo Clinic,south,Hyderabad,1,False,ROHINI-417250,2015-09-07,multi_speciality,29,0.1379,False
+H0083,Sri Joshi Multi-Speciality Hospital,south,Hyderabad,1,False,ROHINI-834802,2013-12-25,oncology,33,0.2121,False
+H0084,Krishna अस्पताल,hindi_belt,Lucknow,2,True,NA,2015-01-29,general_medicine,24,0.2083,False
+H0085,Calcutta Saraswati Hospital,east,Siliguri,3,False,ROHINI-398104,2015-09-06,general_medicine,21,0.2381,False
+H0086,Lucknow जिला अस्पताल,hindi_belt,Lucknow,2,False,ROHINI-861604,2018-03-01,orthopaedic,19,0.1053,False
+H0087,Hanuman Care Hospital,hindi_belt,Dehradun,3,True,ROH-37258,2018-03-26,general_medicine,21,0.1429,False
+H0088,Reddy Apollo Clinic,south,Hyderabad,1,False,ROHINI-326938,2015-11-19,cardiac,29,0.2069,False
+H0089,Banerjee Apollo Clinic,south,Salem,3,False,ROHINI-761587,2020-12-06,pulmonology,20,0.1,False
+H0090,Wockhardt Rajkot Centre,west,Rajkot,3,True,ROHINI-020226,2019-02-17,general_medicine,25,0.04,False
+H0091,Jodhpur जिला अस्पताल,hindi_belt,Jodhpur,3,True,NA,2014-04-12,general_medicine,27,0.3704,True
+H0092,Banerjee Hospital & Research Centre,hindi_belt,Lucknow,2,False,ROHINI-156219,2016-12-16,maternity,22,0.1818,False
+H0093,ஸ்ரீ Krishna கிளினிக்,south,Madurai,2,True,ROH-19049,2020-09-29,multi_speciality,20,0.3,False
+H0094,காந்தி மருத்துவமனை,south,Bengaluru,1,True,ROHINI-056868,2021-08-13,cardiac,25,0.2,False
+H0095,Sri Iyer Nursing Home,south,Chennai,1,False,ROHINI-352151,2020-09-21,pulmonology,20,0.1,False
+H0096,Ganesh Care Hospital,hindi_belt,Amritsar,3,True,ROH-26644,2014-11-20,maternity,26,0.1538,False
+H0097,Shiv अस्पताल,hindi_belt,Jaipur,2,False,ROHINI-887699,2016-02-14,nephrology,18,0.0556,False
+H0098,Shri Agarwal Medical Centre,hindi_belt,Chandigarh,2,False,ROHINI-656853,2015-03-16,cardiac,27,0.1852,False
+H0099,Vishnu Hospital and Research Centre,south,Thiruvananthapuram,2,False,ROHINI-452362,2015-02-06,orthopaedic,24,0.125,False
+H0100,Sri Joshi Nursing Home,south,Madurai,2,False,ROHINI-555300,2019-09-01,general_medicine,29,0.1379,False
+H0101,Sri Rao Multi-Speciality Hospital,south,Vellore,3,False,ROHINI-748638,2018-02-21,multi_speciality,26,0.1154,False
+H0102,Sri Rao Multi-Speciality Hospital,south,Hyderabad,1,True,ROH-50830,2018-07-05,cardiac,36,0.1667,False
+H0103,MedPro Solutions Visakhapatnam,south,Visakhapatnam,2,True,NA,2022-08-22,maternity,23,0.2174,False
+H0104,Hanuman अस्पताल,hindi_belt,Lucknow,2,False,ROHINI-294266,2018-12-14,oncology,22,0.1364,False
+H0105,आयुष्मान Agarwal क्लिनिक,hindi_belt,Bhopal,2,False,ROHINI-377073,2021-12-05,nephrology,16,0.1875,False
+H0106,QuickHeal Clinic Siliguri,east,Siliguri,3,True,PENDING,2022-08-24,maternity,20,0.1,False
+H0107,Vishnu Care Hospital,hindi_belt,Lucknow,2,False,ROHINI-256921,2020-07-22,multi_speciality,29,0.4138,True
+H0108,Patel Apollo Clinic,south,Hyderabad,1,True,ROH-63021,2016-04-06,orthopaedic,22,0.2273,False
+H0109,Patel Hospital & Research Centre,hindi_belt,Chandigarh,2,False,ROHINI-324734,2021-04-15,multi_speciality,19,0.0526,False
+H0110,आयुष्मान Gupta क्लिनिक,hindi_belt,Ludhiana,2,True,NA,2013-11-11,maternity,25,0.12,False
+H0111,Allahabad City Hospital,hindi_belt,Allahabad,3,False,ROHINI-663425,2021-05-19,general_medicine,26,0.1923,False
+H0112,Shree Lakshmi Multispeciality,west,Vadodara,2,False,ROHINI-284810,2018-08-21,multi_speciality,32,0.25,False
+H0113,Choudhary Nursing Home,east,Durgapur,3,False,ROHINI-773006,2019-02-25,multi_speciality,28,0.1071,False
+H0114,Sri Desai Multi-Speciality Hospital,south,Chennai,1,False,ROHINI-565508,2015-09-16,multi_speciality,25,0.12,False
+H0115,Vijaya Reddy Hospital,south,Chennai,1,False,ROHINI-468607,2019-07-15,orthopaedic,26,0.2692,False
+H0116,Rao Hospital & Research Centre,hindi_belt,Patna,2,False,ROHINI-185735,2015-03-15,orthopaedic,29,0.2069,False
+H0117,Jodhpur जिला अस्पताल,hindi_belt,Jodhpur,3,False,ROHINI-349236,2020-06-11,maternity,30,0.2,False
+H0118,Hanuman Care Hospital,hindi_belt,Patna,2,True,PENDING,2018-02-20,maternity,26,0.1923,False
+H0119,Hanuman Care Hospital,hindi_belt,Allahabad,3,True,ROH-94760,2020-01-08,general_medicine,28,0.1429,False
+H0120,Naidu Medical Foundation,west,Mumbai,1,False,ROHINI-732829,2018-08-20,oncology,32,0.1875,False
+H0121,ஸ்ரீ Shiv கிளினிக்,south,Bengaluru,1,False,ROHINI-327093,2019-04-24,nephrology,23,0.2174,False
+H0122,Venkateswara Care Hospital,hindi_belt,Allahabad,3,True,ROHINI-048783,2014-05-29,pulmonology,32,0.1562,False
+H0123,Shree Ganesh Multispeciality,west,Bhavnagar,3,False,ROHINI-766942,2018-12-10,pulmonology,26,0.0,False
+H0124,Sri Ganesh Institute,east,Kolkata,1,False,ROHINI-487453,2016-02-19,multi_speciality,26,0.1154,False
+H0125,Mehta Hospital & Research Centre,hindi_belt,Ludhiana,2,False,ROHINI-617054,2015-08-07,orthopaedic,30,0.2,False
+H0126,Krishna अस्पताल,hindi_belt,Varanasi,3,True,NA,2015-11-24,multi_speciality,22,0.1818,False
+H0127,Shree Lakshmi Multispeciality,west,Pune,1,False,ROHINI-391689,2019-12-15,multi_speciality,28,0.2143,False
+H0128,ஸ்ரீ Hanuman கிளினிக்,south,Thiruvananthapuram,2,False,ROHINI-777989,2013-05-23,multi_speciality,22,0.1818,False
+H0129,Shree Hanuman Multispeciality,west,Mumbai,1,False,ROHINI-673879,2020-12-23,multi_speciality,16,0.0625,False
+H0130,Patna City Hospital,hindi_belt,Patna,2,False,ROHINI-630044,2021-11-27,cardiac,20,0.15,False
+H0131,Wockhardt Mumbai Centre,west,Mumbai,1,False,ROHINI-343766,2019-05-06,general_medicine,17,0.3529,True
+H0132,ஸ்ரீ Ram கிளினிக்,south,Hyderabad,1,True,ROH-21926,2018-03-19,nephrology,34,0.2941,False
+H0133,श्री Mehta मेडिकल सेंटर,hindi_belt,Varanasi,3,True,PENDING,2015-12-04,neurology,26,0.1923,False
+H0134,Vijaya Nair Hospital,south,Visakhapatnam,2,False,ROHINI-339883,2020-05-10,orthopaedic,27,0.2963,False
+H0135,श्री Das मेडिकल सेंटर,hindi_belt,Patna,2,True,NA,2016-11-03,maternity,30,0.1,False
+H0136,आयुष्मान Joshi क्लिनिक,hindi_belt,Jaipur,2,True,NA,2019-04-09,nephrology,28,0.2857,False
+H0137,Wockhardt Bhavnagar Centre,west,Bhavnagar,3,False,ROHINI-121246,2020-06-06,maternity,23,0.2174,False
+H0138,आयुष्मान Naidu क्लिनिक,hindi_belt,Ludhiana,2,False,ROHINI-119412,2014-12-16,multi_speciality,17,0.1765,False
+H0139,Venkateswara Care Hospital,hindi_belt,Ludhiana,2,False,ROHINI-796463,2020-03-31,general_medicine,18,0.1667,False
+H0140,Ludhiana जिला अस्पताल,hindi_belt,Ludhiana,2,False,ROHINI-185039,2013-08-31,multi_speciality,23,0.087,False
+H0141,Sri Krishna Institute,east,Durgapur,3,True,NA,2016-11-25,maternity,27,0.2963,False
+H0142,Ram Care Hospital,hindi_belt,Indore,2,True,ROH-81770,2014-05-31,nephrology,30,0.1667,False
+H0143,आयुष्मान Choudhary क्लिनिक,hindi_belt,Delhi,1,False,ROHINI-576191,2019-05-20,nephrology,20,0.15,False
+H0144,સર Rao હૉસ્પિટલ,west,Nagpur,2,False,ROHINI-371579,2018-12-13,multi_speciality,27,0.1111,False
+H0145,ஸ்ரீ Venkateswara கிளினிக்,south,Madurai,2,True,ROHINI-030602,2017-08-10,maternity,23,0.1739,False
+H0146,Pillai Seva Sadan,east,Durgapur,3,False,ROHINI-789440,2021-04-12,oncology,32,0.0938,False
+H0147,Patel Apollo Clinic,south,Kochi,2,False,ROHINI-350440,2017-10-29,cardiac,16,0.1875,False
+H0148,Banerjee Seva Sadan,east,Kolkata,1,False,ROHINI-173647,2015-12-27,oncology,21,0.1429,False
+H0149,Shree Vishnu Multispeciality,west,Bhavnagar,3,True,ROHINI-010501,2019-04-06,general_medicine,21,0.1429,False
+H0150,Shree Hanuman Multispeciality,west,Nagpur,2,False,ROHINI-778310,2021-08-07,maternity,34,0.1176,False
+H0151,સર Nair હૉસ્પિટલ,west,Nagpur,2,False,ROHINI-763743,2018-11-12,general_medicine,16,0.25,False
+H0152,श्री Rao मेडिकल सेंटर,hindi_belt,Amritsar,3,False,ROHINI-818034,2016-01-25,gastroenterology,22,0.2727,False
+H0153,Lucknow जिला अस्पताल,hindi_belt,Lucknow,2,True,NA,2014-09-21,general_medicine,33,0.1818,False
+H0154,Sri Menon Multi-Speciality Hospital,south,Vellore,3,False,ROHINI-368655,2014-07-02,general_medicine,25,0.2,False
+H0155,Hyderabad Medical Centre,south,Hyderabad,1,False,ROHINI-582752,2013-06-04,oncology,24,0.1667,False
+H0156,Venkateswara Hospital and Research Centre,south,Hyderabad,1,True,NA,2020-06-13,orthopaedic,32,0.2812,False
+H0157,Shri Das Medical Centre,hindi_belt,Chandigarh,2,False,ROHINI-514569,2016-12-25,maternity,22,0.0909,False
+H0158,Vijaya Iyer Hospital,south,Chennai,1,True,ROH-97870,2014-03-26,gastroenterology,22,0.2727,False
+H0159,Mehta Apollo Clinic,south,Bengaluru,1,True,ROHINI-075070,2018-07-19,multi_speciality,19,0.2105,False
+H0160,Vishnu अस्पताल,hindi_belt,Delhi,1,True,ROHINI-074867,2018-08-01,multi_speciality,22,0.1818,False
+H0161,সেবা নার্সিং হোম,east,Durgapur,3,False,ROHINI-128505,2020-09-12,general_medicine,25,0.16,False
+H0162,Sri Naidu Nursing Home,south,Guntur,3,True,NA,2016-11-27,general_medicine,30,0.2667,False
+H0163,Ludhiana City Hospital,hindi_belt,Ludhiana,2,True,ROH-58154,2021-05-19,multi_speciality,27,0.2593,False
+H0164,Jaipur City Hospital,hindi_belt,Jaipur,2,False,ROHINI-550475,2016-09-07,pulmonology,17,0.2353,False
+H0165,Ganesh Healthcare Nagpur,west,Nagpur,2,False,ROHINI-657256,2013-12-08,multi_speciality,22,0.2727,False
+H0166,Kapoor Medical College & Hospital,east,Durgapur,3,False,ROHINI-694070,2019-08-29,maternity,21,0.0952,False
+H0167,Kapoor Hospital Pvt Ltd,west,Ahmedabad,1,True,ROHINI-098576,2020-08-12,cardiac,26,0.1538,False
+H0168,Calcutta Saraswati Hospital,east,Kolkata,1,True,ROH-79580,2018-03-16,multi_speciality,25,0.2,False
+H0169,Wockhardt Rajkot Centre,west,Rajkot,3,True,PENDING,2017-05-19,neurology,30,0.1333,False
+H0170,Sri Desai Multi-Speciality Hospital,south,Tiruchirappalli,3,False,ROHINI-735343,2021-11-20,maternity,22,0.0455,False
+H0171,आयुष्मान Iyer क्लिनिक,hindi_belt,Varanasi,3,False,ROHINI-880872,2015-08-13,nephrology,21,0.2381,False
+H0172,Vijaya Joshi Hospital,south,Visakhapatnam,2,False,ROHINI-789118,2015-07-30,general_medicine,33,0.1818,False
+H0173,Tiruchirappalli Medical Centre,south,Tiruchirappalli,3,True,PENDING,2016-10-23,nephrology,34,0.1765,False
+H0174,Vishnu अस्पताल,hindi_belt,Patna,2,False,ROHINI-137883,2017-03-26,multi_speciality,22,0.0455,False
+H0175,Chandigarh जिला अस्पताल,hindi_belt,Chandigarh,2,False,ROHINI-367365,2021-01-02,multi_speciality,35,0.2286,False
+H0176,Vishnu अस्पताल,hindi_belt,Lucknow,2,True,PENDING,2021-07-02,oncology,28,0.0714,False
+H0177,Iyer Medical Foundation,west,Rajkot,3,True,PENDING,2016-04-24,general_medicine,25,0.12,False
+H0178,காந்தி மருத்துவமனை,south,Bengaluru,1,False,ROHINI-671664,2013-04-09,neurology,18,0.0556,False
+H0179,Reddy Hospital & Research Centre,hindi_belt,Chandigarh,2,True,ROH-74114,2020-08-24,multi_speciality,30,0.2667,False
+H0180,Vijaya Das Hospital,south,Chennai,1,False,ROHINI-631073,2014-08-03,multi_speciality,21,0.2857,False
+H0181,Vijaya Pillai Hospital,south,Vellore,3,False,ROHINI-810898,2021-09-13,general_medicine,25,0.16,False
+H0182,SuperCare Diagnostics Siliguri,east,Siliguri,3,True,,2022-07-31,pulmonology,18,0.2222,False
+H0183,Krishna Healthcare Pune,west,Pune,1,False,ROHINI-593093,2016-08-03,multi_speciality,22,0.2273,False
+H0184,Lakshmi Hospital and Research Centre,south,Coimbatore,2,True,ROH-60308,2015-08-05,multi_speciality,23,0.2174,False
+H0185,Vishnu Healthcare Ahmedabad,west,Ahmedabad,1,False,ROHINI-381585,2017-10-01,cardiac,25,0.08,False
+H0186,Choudhary Hospital Pvt Ltd,west,Bhavnagar,3,False,ROHINI-728766,2016-05-25,pulmonology,30,0.2333,False
+H0187,Shree Iyer Clinic,west,Mumbai,1,False,ROHINI-273250,2019-06-12,cardiac,16,0.1875,False
+H0188,Saraswati अस्पताल,hindi_belt,Ludhiana,2,False,ROHINI-144040,2021-02-28,general_medicine,27,0.1852,False
+H0189,Venkateswara Care Hospital,hindi_belt,Delhi,1,True,PENDING,2015-11-04,nephrology,23,0.2174,False
+H0190,Eastern Banerjee Hospital,east,Siliguri,3,False,ROHINI-618132,2013-11-05,general_medicine,29,0.1724,False
+H0191,Vishnu अस्पताल,hindi_belt,Ranchi,3,True,ROHINI-025060,2016-10-21,gastroenterology,22,0.4091,True
+H0192,સર Kapoor હૉસ્પિટલ,west,Ahmedabad,1,False,ROHINI-255823,2017-03-30,pulmonology,19,0.1579,False
+H0193,Guntur Medical Centre,south,Guntur,3,True,PENDING,2019-05-12,orthopaedic,36,0.1111,False
+H0194,Delhi City Hospital,hindi_belt,Delhi,1,False,ROHINI-615540,2019-08-29,maternity,22,0.2273,False
+H0195,Shree Saraswati Multispeciality,west,Ahmedabad,1,False,ROHINI-553980,2016-08-27,maternity,23,0.3043,True
+H0196,Vijaya Rao Hospital,south,Bengaluru,1,True,PENDING,2015-09-18,maternity,21,0.1905,False
+H0197,Durga अस्पताल,hindi_belt,Delhi,1,False,ROHINI-175931,2015-09-18,nephrology,29,0.1034,False
+H0198,Wockhardt Rajkot Centre,west,Rajkot,3,False,ROHINI-873799,2021-12-13,multi_speciality,32,0.4062,True
+H0199,Bhopal जिला अस्पताल,hindi_belt,Bhopal,2,False,ROHINI-758206,2013-11-06,orthopaedic,22,0.0909,False
+H0200,Lucknow City Hospital,hindi_belt,Lucknow,2,False,ROHINI-283625,2017-01-19,neurology,24,0.1667,False

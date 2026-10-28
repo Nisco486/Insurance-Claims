@@ -1,0 +1,69 @@
+{
+  "xgboost_baseline": {
+    "auc_roc": 0.9526,
+    "precision": 0.9793,
+    "recall": 0.8397,
+    "f1_score": 0.9041,
+    "ece": 0.0105,
+    "confusion_matrix": [
+      [16336, 64],
+      [577, 3023]
+    ],
+    "feature_importances": {
+      "icd_code_matches_procedure": 0.3203,
+      "claim_amount_approved_inr": 0.1385,
+      "claim_amount_requested_inr": 0.1129,
+      "provider_blacklist_flag": 0.1066,
+      "pharmacy_bill_ratio": 0.1053,
+      "num_insurers_same_event": 0.1020,
+      "discharge_readmit_gap_days": 0.0667,
+      "days_since_policy_start": 0.0408,
+      "age": 0.0026,
+      "length_of_stay_days": 0.0015,
+      "tier": 0.0014,
+      "language_encoded": 0.0007,
+      "kyc_type_encoded": 0.0003,
+      "policy_type_encoded": 0.0002,
+      "identity_verified": 0.0001,
+      "is_cashless": 0.0001,
+      "previous_fraud_on_policy": 0.0
+    },
+    "calibration_curve": {
+      "fraction_of_positives": [
+        0.02467165827912115, 0.15240641711229946, 0.3548387096774194,
+        0.5714285714285714, 0.6551724137931034, 0.6444444444444445,
+        0.8548387096774194, 0.8636363636363636, 0.8959537572254336,
+        0.99668995954395
+      ],
+      "mean_predicted_value": [
+        0.03133915623131046, 0.13665227663057153, 0.2473642018703204,
+        0.3436879629514383, 0.4441721834009689, 0.5468719454202318,
+        0.6500690862783298, 0.7577502220131606, 0.8535354361276611,
+        0.98834195837053
+      ]
+    }
+  },
+  "claimcourt_autoscientist": {
+    "model_id": "adaption_llama_3_3_70b_instru_india_health_claim_fraud_1ddb8b72",
+    "base_model": "meta-llama/Llama-3.3-70B-Instruct-Reference",
+    "training_method": "sft",
+    "lora_r": 32,
+    "lora_alpha": 64,
+    "n_epochs": 1,
+    "training_steps": 748,
+    "training_rows": 15000,
+    "win_rate_vs_base": 1.0,
+    "base_win_rate": 0.0,
+    "train_loss_initial": 0.76274,
+    "train_loss_final": 0.137,
+    "adaption_quality_before": 6.0,
+    "adaption_quality_after": 8.8,
+    "adaption_quality_improvement_pct": 46.7,
+    "adaption_grade_before": "C",
+    "adaption_grade_after": "B",
+    "adaption_percentile_before": 15.3,
+    "adaption_percentile_after": 43.9,
+    "dataset_id": "d7e35ed6-5b22-407a-897a-1068078422e1",
+    "notes": "Trained on 15K adapted rows. Full 100K training pending additional credits."
+  }
+}
